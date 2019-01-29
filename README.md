@@ -41,3 +41,4 @@
   - [共筆](WEB_SERVER.md)
   - FreeBSD + Apache + MySQL + (PHP or other language you like)
   - Ref: https://www.freebsd.org/doc/handbook/network-apache.html
+- SSL Certifcate from Let's Encrypt: https://letsencrypt.org/
