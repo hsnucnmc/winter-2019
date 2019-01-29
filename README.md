@@ -13,7 +13,22 @@
   - IP Address/Subnet/DNS/CIDR
   - NAT
 
-### Homework
+## Day 2 - Jan. 29
+- 網路概論
+  - ICMP
+  - IPv6/Tunneling
+  - IP/MAC/ARP
+  - Hub/Switch/Router
+- 密碼學概論
+
+## Day 3 - Jan. 30
+- 計概 & 資料結構 part 1
+
+## Day 4 - Jan. 31
+- TBD
+- 計概 & 資料結構 part 2
+
+## Homework
 - Mail Server
   - Ref: https://github.com/hsnucnmc/summer-2018/tree/master/mail
   - Ref: https://www.freebsd.org/doc/handbook/mail.html
@@ -22,18 +37,3 @@
 - FAM(P) Server
   - FreeBSD + Apache + MySQL + (PHP or other language you like)
   - Ref: https://www.freebsd.org/doc/handbook/network-apache.html
-
-## Day 2 - Jan. 29
-- 網路概論
-  - ICMP
-  - IPv6/Tunneling
-  - IP/MAC/ARP
-  - Hub/Switch/Router
-- 資訊安全(?)
-
-## Day 3 - Jan. 30
-- 計概 & 資料結構 part 1
-
-## Day 4 - Jan. 31
-- TBD
-- 計概 & 資料結構 part 2
