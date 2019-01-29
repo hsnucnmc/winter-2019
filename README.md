@@ -1,7 +1,7 @@
 # winter-2019
 ## Day 1 - Jan. 28
 - 重灌實驗機！
-  - [共筆](INSTALL_FREEBSD.MD)
+  - [共筆](INSTALL_FREEBSD.md)
   - Ref: https://www.freebsd.org/doc/handbook/bsdinstall.html
   - Ref: https://www.freebsd.org/doc/handbook/kernelconfig.html
 - FreeBSD Basic Walkthrough
@@ -31,11 +31,13 @@
 
 ## Homework
 - Mail Server
-  - [共筆](MAIL_SERVER.MD)
+  - [共筆](MAIL_SERVER.md)
   - Ref: https://github.com/hsnucnmc/summer-2018/tree/master/mail
   - Ref: https://www.freebsd.org/doc/handbook/mail.html
 - DNS Server
+  - [共筆](DNS_SERVER.md)
   - Ref: https://www.freebsd.org/doc/handbook/network-dns.html
 - FAM(P) Server
+  - [共筆](WEB_SERVER.md)
   - FreeBSD + Apache + MySQL + (PHP or other language you like)
   - Ref: https://www.freebsd.org/doc/handbook/network-apache.html
