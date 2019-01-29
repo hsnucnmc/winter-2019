@@ -41,4 +41,10 @@
   - [共筆](WEB_SERVER.md)
   - FreeBSD + Apache + MySQL + (PHP or other language you like)
   - Ref: https://www.freebsd.org/doc/handbook/network-apache.html
-- SSL Certifcate from Let's Encrypt: https://letsencrypt.org/
+  
+## Misc
+- SSL Certifcate
+  - Get one from Let's Encrypt: https://letsencrypt.org/
+    - Using certbot: https://certbot.eff.org/lets-encrypt/freebsd-other
+  - Generate a self signed certificate
+    - What is the command? (Hint: openssl)
