@@ -49,3 +49,4 @@ Boot oder
 edit
 boot device 1 CD-Rom
 boot device 2 Disk 'ide0'
+(重灌完後要調回原本的順序，不然你重新開機後會悲劇)
