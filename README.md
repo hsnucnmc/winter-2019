@@ -48,3 +48,4 @@
     - Using certbot: https://certbot.eff.org/lets-encrypt/freebsd-other
   - Generate a self signed certificate
     - What is the command? (Hint: openssl)
+    - Generate an CA for signing certificate
