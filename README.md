@@ -23,11 +23,17 @@
 - 密碼學概論
 
 ## Day 3 - Jan. 30
-- 計概 & 資料結構 part 1
+- Git & GitHub Flow
+- Service architecture
+- 資料結構
+  - array
+  - linked list
+  - queue
+  - stack
+  - tree/binary tree
 
 ## Day 4 - Jan. 31
 - TBD
-- 計概 & 資料結構 part 2
 
 ## Homework
 - Mail Server
