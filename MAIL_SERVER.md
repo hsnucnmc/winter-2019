@@ -27,18 +27,25 @@ Then run thess two command to stop sendmail and start postfix
 > Setup a working POP3 & IMAP server using Dovecot (port 110 & 143) <br>
 > http://izero.pixnet.net/blog/post/17061915
 
+install Dovecot via pkg
 ```
-cd /usr/local/etc/dovecot/example-config 
+# pkg install dovecot
 ```
-
+add these line into /etc/rc.con
+```
+#dovcot
+dovecot_enable="YES"
+```
+now go to /usr/local/etc/dovecot/example-config and copy the config file
 ```
 # cp dovecot.conf /usr/local/etc/dovecot
 ```
-
+open up /usr/local/etc/dovecot/dovecot.conf edit this line
 ```
-# ee /usr/local/etc/dovecot/dovecot.conf
+...
+protocols = imap pop3
+...
 ```
-
 設成protocols = imap pop3 
 跳過設定
 ssl key file
