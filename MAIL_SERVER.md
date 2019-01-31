@@ -6,7 +6,10 @@ cd /usr/local/etc/dovecot/example-config
 
 '# cp dovecot.conf /usr/local/etc/dovecot'
 
-'# ee /usr/local/etc/dovecot/dovecot.conf'
+'''
+# ee /usr/local/etc/dovecot/dovecot.conf
+'''
+
 設成protocols = imap pop3 
 
 跳過設定 ssl key file
