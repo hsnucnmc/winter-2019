@@ -2,12 +2,11 @@ Setup a working POP3 & IMAP server using Dovecot (port 110 & 143)
 
 http://izero.pixnet.net/blog/post/17061915
 
-/usr/local/etc/dovecot/example-config 
+cd /usr/local/etc/dovecot/example-config 
 
-sudo cp dovecot.conf /usr/local/etc/dovecot
+'# cp dovecot.conf /usr/local/etc/dovecot'
 
-/usr/local/etc/dovecot  sudo ee dovecot.conf
-
+'# ee /usr/local/etc/dovecot/dovecot.conf'
 設成protocols = imap pop3 
 
 跳過設定 ssl key file
