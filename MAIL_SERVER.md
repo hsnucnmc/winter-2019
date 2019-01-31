@@ -1,4 +1,4 @@
-Setup a working POP3 & IMAP server using Dovecot (port 110 & 143)
+# Setup a working POP3 & IMAP server using Dovecot (port 110 & 143)
 
 http://izero.pixnet.net/blog/post/17061915
 
@@ -15,8 +15,8 @@ cd /usr/local/etc/dovecot/example-config
 ```
 
 設成protocols = imap pop3 
-
-跳過設定 ssl key file
+跳過設定
+ssl key file
 
 ```
 sudo cp -r /usr/local/etc/dovecot/example-config/conf.d /usr/local/etc/dovecot
@@ -29,6 +29,11 @@ sudo cp -r /usr/local/etc/dovecot/example-config/conf.d /usr/local/etc/dovecot
 ```
 \# service dovecot
 ```
+
+---
+Troubleshot:
+
+01.
 hostname可能有問題
 解決步驟:輸入hostname "你的名字"(雙引號不用打)
         再輸入ee /etc/rc.conf
