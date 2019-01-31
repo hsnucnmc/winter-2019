@@ -2,7 +2,9 @@ Setup a working POP3 & IMAP server using Dovecot (port 110 & 143)
 
 http://izero.pixnet.net/blog/post/17061915
 
-/usr/local/etc/dovecot/example-config % sudo cp dovecot.conf /usr/local/etc/dovecot
+/usr/local/etc/dovecot/example-config 
+
+sudo cp dovecot.conf /usr/local/etc/dovecot
 
 /usr/local/etc/dovecot  sudo ee dovecot.conf
 
