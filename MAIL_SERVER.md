@@ -17,3 +17,5 @@ sudo cp -r /usr/local/etc/dovecot/example-config/conf.d /usr/local/etc/dovecot
 /usr/local/etc/dovecot/conf.d  rm 10-ssl.conf
 
 /usr/local/etc/rc.d sudo ./dovecot onestart
+
+hostname可能有問題
