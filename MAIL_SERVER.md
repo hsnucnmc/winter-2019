@@ -27,6 +27,10 @@ sudo cp -r /usr/local/etc/dovecot/example-config/conf.d /usr/local/etc/dovecot
 ```
 
 ```
+cd /usr/local/etc/rc.d sudo ./dovecot onestart
+```
+or
+```
 # service dovecot start
 ```
 <br/>
