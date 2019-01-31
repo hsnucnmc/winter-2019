@@ -46,22 +46,15 @@ open up /usr/local/etc/dovecot/dovecot.conf edit this line
 protocols = imap pop3
 ...
 ```
-設成protocols = imap pop3 
-跳過設定
-ssl key file
 
 ```
 sudo cp -r /usr/local/etc/dovecot/example-config/conf.d /usr/local/etc/dovecot
 ```
-
 ```
 # rm /usr/local/etc/dovecot/conf.d/10-ssl.conf
 ```
 
-```
-cd /usr/local/etc/rc.d sudo ./dovecot onestart
-```
-or
+now start the Dovecot service
 ```
 # service dovecot start
 ```
@@ -70,7 +63,7 @@ or
 
 ## Troubleshot:
 
-#### invalid hostname:<br/>
+#### invalid hostname:<br>
         解決步驟:輸入hostname "你的名字"(雙引號不用打 <br/>
         再輸入ee /etc/rc.conf <br/>
         修改hostname的名字<br/>
