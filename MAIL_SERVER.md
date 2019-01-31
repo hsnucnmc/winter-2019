@@ -38,7 +38,7 @@ or
 
 ## Troubleshot:
 
-### invalid hostname:<br/>
+#### invalid hostname:<br/>
         解決步驟:輸入hostname "你的名字"(雙引號不用打 <br/>
         再輸入ee /etc/rc.conf <br/>
         修改hostname的名字<br/>
