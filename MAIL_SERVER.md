@@ -34,6 +34,6 @@ sudo cp -r /usr/local/etc/dovecot/example-config/conf.d /usr/local/etc/dovecot
 Troubleshot:
 
 invalid hostname:
-        解決步驟:輸入hostname "你的名字"(雙引號不用打 
-        再輸入ee /etc/rc.conf 
-        修改hostname的名字
+        解決步驟:輸入hostname "你的名字"(雙引號不用打\n
+        再輸入ee /etc/rc.conf\n
+        修改hostname的名字\n
