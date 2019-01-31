@@ -29,8 +29,8 @@ sudo cp -r /usr/local/etc/dovecot/example-config/conf.d /usr/local/etc/dovecot
 ```
 \# service dovecot
 ```
-
----
+<br/>
+<br/>
 ## Troubleshot:
 
 ### invalid hostname:<br/>
