@@ -37,7 +37,7 @@
 
 ## Homework
 - Mail Server
-  - [共筆](MAIL_SERVER.md)
+  - [共筆](MAIL_SERVER_BASIC.md)
   - Ref: https://github.com/hsnucnmc/summer-2018/tree/master/mail
   - Ref: https://www.freebsd.org/doc/handbook/mail.html
 - DNS Server
