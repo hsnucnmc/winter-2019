@@ -17,6 +17,8 @@ defaultrouter="140.131.149.254
 
 leave editer,save
 
+
+
 service netif restart
 
 service routing restart
