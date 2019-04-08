@@ -15,6 +15,8 @@ ifconfig_em0="inet 140.131.149.49(自己的)  netmask 255.255.255.0"
 
 defaultrouter="140.131.149.254
 
+named_enable="YES"
+
 leave editer,save
 
 
